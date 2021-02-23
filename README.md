@@ -9,7 +9,6 @@ Amazon SageMaker에서 딥러닝 모델을 모두 훈련하고 추론(inference)
 <p>
 본 핸즈온을 통해 여러분은 딥러닝 프레임워크로 사전 훈련된 모델을 Amazon SageMaker Endpoint로 호스팅하는 방법을 배울 수 있습니다.
 
-
 - [사전 준비 (Optional)](get_started.md)
 
 ### PyTorch
